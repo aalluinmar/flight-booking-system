@@ -1,2 +1,2 @@
-# FlightBooking-System-Backend
+# Flight-Booking-System-Backend
 Flight booking system allows the user to book the flights
